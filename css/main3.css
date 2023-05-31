@@ -1,0 +1,120 @@
+.class{
+    margin: 0 0 auto;
+}
+.class1{
+    margin-left: -50px;
+}
+input{
+    width: 190px;
+    border: 1px solid gainsboro;
+    margin-top: 10px;
+    background-color: whitesmoke;
+    border-radius: 2px;
+    height: 40px;
+    padding-left: 10px;
+    color: ghostwhite;
+}
+.input1{
+    width: 190px;
+    height: 40px;
+    border: 2px solid green;
+    padding-top: 7px;
+    padding-left: 10px;
+    margin-top: 10px;
+    border-radius: 2px;
+}
+.input1 img{
+    margin-left: 140px;
+    margin-top: -50px;
+}
+.input2{
+    width: 190px;
+    height: 40px;
+    border: 2px solid green;
+    padding-top: 7px;
+    padding-left: 10px;
+    margin-top: 10px;
+    border-radius: 2px;
+}
+.input2 img{
+    margin-left: 140px;
+    margin-top: -50px;
+}
+.photo{
+    margin-top: -30px;
+}
+.photo img{
+    margin-left: 300px !important;
+}
+.input3{
+    margin-top: 129px;
+    margin-left: -380px;
+}
+.tip1 input{
+    background-color: white;
+    margin-left: 70px;
+}
+.error{
+    border: 1px solid red;
+    background-color: white;
+    width: 190px;
+    height: 40px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-top: 7px;
+    margin-left: 70px;
+}
+.error img{
+    margin-left: 140px;
+    margin-top: -50px;
+}
+.error1{
+    border: 1px solid red;
+    background-color: white;
+    width: 190px;
+    height: 40px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-top: 7px;
+    margin-left: 70px;
+}
+.error1 img{
+    margin-left: 140px;
+    margin-top: -50px;
+}
+.input4{
+    margin-top: 129px;
+    margin-left: 5px;
+}
+.filled input{
+    background-color: white;
+}
+.icon{
+    border: 1px solid gray;
+    width: 190px;
+    height: 40px;
+    margin-top: 10px;
+    padding-top: 7px;
+    padding-left: 10px;
+}
+.icon img{
+    margin-left: 140px;
+    margin-top: -50px;
+}
+.active input{
+    border: 1px solid green;
+    background-color: white;
+}
+.button{
+    border: 1px solid gray;
+    background-color: white;
+    width: 190px;
+    height: 40px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-top: 7px;
+}
+.button img{
+    margin-left: 138px;
+    margin-top: -51px;
+}
